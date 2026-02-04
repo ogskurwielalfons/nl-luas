@@ -1,1 +1,1 @@
-# nl-luas
+# nl-luas I DIDNT CHECK ANY LUAS. Some work some not. some luas required fonts so just download them and paste in D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\nl\hydra(example) #JEBAC ZADYME
